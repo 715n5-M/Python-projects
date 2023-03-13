@@ -1,3 +1,3 @@
-# Python-projects
-A collection of projects in Python beginner to advanced
-I'm learning and practicing Python. Here is my work
+#Dictionary game
+
+Flip cards game that helps me track the french words i've learned so far
